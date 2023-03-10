@@ -33,8 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mariano-paporello/mariano-paporello/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
